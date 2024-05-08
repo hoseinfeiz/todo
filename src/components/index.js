@@ -1,0 +1,7 @@
+export { default as TaskItem } from './TaskItem/TaskItem'
+export { default as TodoApp } from './TodoApp/TodoApp'
+export { default as Header } from './header/header'
+export { default as AddTaskForm } from './AddTaskForm/AddTaskForm'
+export { default as TaskItemsList } from './TaskItemsList/TaskItemsList'
+export { default as FilterItems } from './FilterItems/FilterItems'
+export { default as Footer } from './Footer/Footer'
